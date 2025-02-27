@@ -67,3 +67,4 @@ Diese Streamlit-App bietet eine umfassende Plattform zur Analyse von Yelp-Daten.
 📊 Erweiterte NLP-Analyse: Sentiment-Analyse der Rezensionstexte mit Machine Learning
 🌍 Internationalisierung: Anpassung der App für weitere Yelp-Märkte
 
+Datenquelle: https://business.yelp.com/data/resources/open-dataset/
