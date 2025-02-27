@@ -17,7 +17,7 @@ DATA_PATH = os.path.join(BASE_DIR, "JSON_Input", "yelp_academic_dataset_business
 # --- DATENLADEN MIT CACHE ---
 @st.cache_data  # Streamlit-Caching zur Optimierung der Ladegeschwindigkeit
 def load_data():
-    df = pd.read_json(DATA_PATH, lines=True, nrows=70000)
+    df = pd.read_json(DATA_PATH, lines=True, nrows=40000)
     return df
 
 # Daten in den Haupt-DataFrame laden
