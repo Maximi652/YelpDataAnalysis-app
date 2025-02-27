@@ -1,6 +1,7 @@
 # YelpDataAnalysis-app
 Yelp Data Analysis ist eine interaktive Streamlit-App zur explorativen Analyse des Yelp Academic Datasets. Sie bietet geografische Clusteranalysen mit DBSCAN, statistische Visualisierungen, eine Untersuchung der Öffnungszeiten sowie ein KPI-Dashboard. Implementiert mit Python, Streamlit, Plotly und Pandas.
 
+**Sonstige Beteiligung Angewandte Programmierung**
 
 📌 Beschreibung der Streamlit-App für die Analyse von Yelp-Daten
 1. Einführung
@@ -50,6 +51,7 @@ Mapbox-Stil wurde für die interaktive Kartenvisualisierung integriert.
 Filteroptionen (Sternebewertung, Anzahl der Rezensionen) ermöglichen eine dynamische Datenanalyse.
 Cluster- und Farbwahl in der Kartenansicht verbessern die Explorationsmöglichkeiten.
 Dynamische Sidebar sorgt für eine intuitive Navigation zwischen den Analysemodulen.
+
 4. Erkenntnisse & Anwendungsbereiche
 Diese Anwendung zeigt auf, wie sich Yelp-Daten für wissenschaftliche Analysen und Geschäftsentscheidungen nutzen lassen. Mögliche Erkenntnisse aus der App umfassen:
 
